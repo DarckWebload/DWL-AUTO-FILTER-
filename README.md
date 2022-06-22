@@ -4,7 +4,7 @@
   <img src="assets/logo.jpg" alt="dwl Logo">
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>DARK WEBLOAD </b>
 </h1>
 
 
